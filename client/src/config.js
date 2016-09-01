@@ -1,5 +1,5 @@
 const config = {
-  name: 'App name',
+  name: 'Hold',
   env: 'development',
   logLevels: [0, 1, 2, 3],
 };
